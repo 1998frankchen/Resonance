@@ -1,0 +1,197 @@
+[
+  {
+    "image": "demo_01.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see a close-up photo of a domestic cat with striking eyes. The cat has beautiful fur patterns and is looking directly at the camera with alert, expressive eyes."
+      }
+    ]
+  },
+  {
+    "image": "demo_01.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Describe the cat in this image."
+      },
+      {
+        "from": "assistant",
+        "value": "I can see a domestic cat in this indoor portrait. The cat has beautiful fur patterns and is looking directly at the camera with alert, expressive eyes."
+      }
+    ]
+  },
+  {
+    "image": "demo_02.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see a happy dog playing in a grassy park area. The dog appears to be in motion, enjoying playtime in a natural outdoor setting with green grass."
+      }
+    ]
+  },
+  {
+    "image": "demo_02.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Describe the dog in this image."
+      },
+      {
+        "from": "assistant",
+        "value": "I can see a happy dog in this outdoor park setting. The dog appears to be in motion, enjoying playtime in a natural outdoor setting with green grass."
+      }
+    ]
+  },
+  {
+    "image": "demo_03.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see a beautiful sunset landscape with warm golden colors. The sky displays vibrant orange, pink, and golden hues as the sun sets on the horizon."
+      }
+    ]
+  },
+  {
+    "image": "demo_03.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Describe the sunset in this image."
+      },
+      {
+        "from": "assistant",
+        "value": "This image shows a beautiful sunset in a natural landscape. The sky displays vibrant orange, pink, and golden hues as the sun sets on the horizon."
+      }
+    ]
+  },
+  {
+    "image": "demo_04.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see urban city skyline with modern buildings and architecture. The image shows tall buildings, skyscrapers, and urban architecture creating an impressive city skyline."
+      }
+    ]
+  },
+  {
+    "image": "demo_04.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Describe the cityscape in this image."
+      },
+      {
+        "from": "assistant",
+        "value": "This image shows an urban cityscape in an urban environment. The image shows tall buildings, skyscrapers, and urban architecture creating an impressive city skyline."
+      }
+    ]
+  },
+  {
+    "image": "demo_05.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see majestic mountain landscape with peaks and natural scenery. The image captures rugged mountain peaks with dramatic natural lighting and possibly some vegetation in the foreground."
+      }
+    ]
+  },
+  {
+    "image": "demo_05.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Describe the mountains in this image."
+      },
+      {
+        "from": "assistant",
+        "value": "I can see majestic mountains in this natural mountain environment. The image captures rugged mountain peaks with dramatic natural lighting and possibly some vegetation in the foreground."
+      }
+    ]
+  },
+  {
+    "image": "demo_06.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see ocean waves crashing with dynamic water movement. The image shows the power and beauty of ocean waves, with white foam and dynamic water patterns."
+      }
+    ]
+  },
+  {
+    "image": "demo_07.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see a peaceful forest path winding through tall trees. The path leads through a lush forest with tall trees creating a natural canopy overhead."
+      }
+    ]
+  },
+  {
+    "image": "demo_08.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see colorful flower garden with blooming plants. The image shows a variety of colorful flowers in bloom, creating a vibrant and beautiful garden scene."
+      }
+    ]
+  },
+  {
+    "image": "demo_09.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see birds flying in formation against the sky. Multiple birds are captured in flight, possibly migrating or moving together across an open sky."
+      }
+    ]
+  },
+  {
+    "image": "demo_10.jpg",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "What do you see in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can see a delicate butterfly resting on a flower. The butterfly displays intricate wing patterns while perched on a colorful flower in a natural setting."
+      }
+    ]
+  }
+]
