@@ -1,0 +1,62 @@
+[
+  {
+    "image": "demo_01.jpg",
+    "prompt": "Describe what you see in this image of cat.",
+    "chosen": "This image shows a close-up photo of a domestic cat with striking eyes. The cat has beautiful fur patterns and is looking directly at the camera with alert, expressive eyes. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see cat in the image."
+  },
+  {
+    "image": "demo_02.jpg",
+    "prompt": "Describe what you see in this image of dog.",
+    "chosen": "This image shows a happy dog playing in a grassy park area. The dog appears to be in motion, enjoying playtime in a natural outdoor setting with green grass. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see dog in the image."
+  },
+  {
+    "image": "demo_03.jpg",
+    "prompt": "Describe what you see in this image of sunset.",
+    "chosen": "This image shows a beautiful sunset landscape with warm golden colors. The sky displays vibrant orange, pink, and golden hues as the sun sets on the horizon. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see sunset in the image."
+  },
+  {
+    "image": "demo_04.jpg",
+    "prompt": "Describe what you see in this image of cityscape.",
+    "chosen": "This image shows urban city skyline with modern buildings and architecture. The image shows tall buildings, skyscrapers, and urban architecture creating an impressive city skyline. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see cityscape in the image."
+  },
+  {
+    "image": "demo_05.jpg",
+    "prompt": "Describe what you see in this image of mountains.",
+    "chosen": "This image shows majestic mountain landscape with peaks and natural scenery. The image captures rugged mountain peaks with dramatic natural lighting and possibly some vegetation in the foreground. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see mountains in the image."
+  },
+  {
+    "image": "demo_06.jpg",
+    "prompt": "Describe what you see in this image of ocean waves.",
+    "chosen": "This image shows ocean waves crashing with dynamic water movement. The image shows the power and beauty of ocean waves, with white foam and dynamic water patterns. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see ocean waves in the image."
+  },
+  {
+    "image": "demo_07.jpg",
+    "prompt": "Describe what you see in this image of forest path.",
+    "chosen": "This image shows a peaceful forest path winding through tall trees. The path leads through a lush forest with tall trees creating a natural canopy overhead. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see forest path in the image."
+  },
+  {
+    "image": "demo_08.jpg",
+    "prompt": "Describe what you see in this image of flowers.",
+    "chosen": "This image shows colorful flower garden with blooming plants. The image shows a variety of colorful flowers in bloom, creating a vibrant and beautiful garden scene. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see flowers in the image."
+  },
+  {
+    "image": "demo_09.jpg",
+    "prompt": "Describe what you see in this image of flying birds.",
+    "chosen": "This image shows birds flying in formation against the sky. Multiple birds are captured in flight, possibly migrating or moving together across an open sky. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see flying birds in the image."
+  },
+  {
+    "image": "demo_10.jpg",
+    "prompt": "Describe what you see in this image of butterfly.",
+    "chosen": "This image shows a delicate butterfly resting on a flower. The butterfly displays intricate wing patterns while perched on a colorful flower in a natural setting. The composition and lighting create a visually appealing photograph that captures the essence of the subject beautifully.",
+    "rejected": "I see butterfly in the image."
+  }
+]
