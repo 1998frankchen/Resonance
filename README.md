@@ -41,8 +41,8 @@ Research and development on preference learning of Vision-Language Models (VLM, 
 
 - Supervised Fine-tuning (SFT)
 - [Direct Preference Optimization (DPO)](https://papers.nips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)
-- [Dense Direct Preference Optimization (DDPO)](http://arxiv.org/abs/2312.00849)
-- [Proximal Policy Optimization (PPO) (coming soon)](http://arxiv.org/abs/1707.06347)
+- [Proximal Policy Optimization (PPO)](http://arxiv.org/abs/1707.06347)
+- - [Dense Direct Preference Optimization (DDPO)(in process)](http://arxiv.org/abs/2312.00849)
 - [Kahneman-Tversky Optimization (KTO) (coming soon)](http://arxiv.org/abs/2402.01306)
 
 ## 🛠️ Installation
@@ -158,7 +158,7 @@ Resonance uses three arguments when processing the given dataset, which can be f
 
 ### Customized Dataset
 
-For methods that need comparison data, e.g. DPO, DDPO, KTO(paired), please prepare your json data in the following format:
+For methods that need comparison data, e.g. DPO, please prepare your json data in the following format:
 
 ```json
 [
