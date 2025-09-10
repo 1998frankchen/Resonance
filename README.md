@@ -25,7 +25,7 @@ Research and development on preference learning of Vision-Language Models (VLM, 
 **Resonance** provides a perfect solution to abstract VLMs in a unified framework where machine vision meets human wisdom through preference learning. Key features include:
 
 - **Supports popular VLMs** : LLaVA-1.5, InstructBLIP, LLaVA-Next, Qwen-VL, InternLM-XComposer2, etc.
-- **Supports popular fine-tuning methods** : SFT, DPO, KTO, etc.
+- **Supports popular fine-tuning methods** : SFT, DPO (DDPO & KTO still in precss), etc.
 - **Evaluation on popular benchmarks** : MME, MMBench, SEEDBench, MMVet, MMMU, etc.
 - **Easy to expand** : Customize your own dataset and model with few code.
 
