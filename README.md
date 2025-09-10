@@ -154,6 +154,12 @@ Please refer to [arguments.md](docs/TrainingArguments.md) for detailed explanati
 
 ### Data Preparation
 
+
+Resonance处理数据集时使用三个参数，在所有示例训练脚本中都可以找到。运行前请确保正确设置：     
+--dataset_name 数据集名称。可选值：vlfeedback_paired（VLFeedback数据集）、rlhfv（RLHF-V数据集）、vlquery_json（自定义多模态对话数据）、plain_dpo（自定义多模态比较数据）。  
+--data_path json文件路径。仅自定义数据集需要。VLFeedback和RLHF-V数据集会自动从huggingface下载。  
+--image_root 图像根目录。仅自定义数据集需要。会与json中的图像路径拼接。  
+
 Resonance uses three arguments when processing the given dataset, which can be found in all the example training scripts. Please make sure they are properly set in the script before running it:
 
 - `--dataset_name` The name of the dataset. It can be `vlfeedback_paired` for the [VLFeedback](https://huggingface.co/datasets/MMInstruction/VLFeedback) dataset, `rlhfv` for the [RLHF-V](https://huggingface.co/datasets/HaoyeZhang/RLHF-V-Dataset) dataset, `vlquery_json` for customized multimodal conversation data stored in json format, `plain_dpo` for customized multimodal comparison data stored in json format.
