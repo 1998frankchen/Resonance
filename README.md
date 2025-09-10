@@ -21,8 +21,9 @@
 ## 📝 Introduction
 由于视觉语言模型（VLM、LVLM或MLLM）社区缺乏统一的模型架构，视觉语言模型的偏好学习研究和开发具有挑战性。像LLaVA、Qwen-VL和InternLM-XComposer这样的最先进视觉语言模型具有不同的实现风格，这使得很难将它们包含在单一的训练框架中。
 或者更流畅的表达：
-视觉语言模型（VLM、LVLM或MLLM）的偏好学习研究开发面临挑战，主要原因是VLM社区缺乏统一的模型架构。像LLaVA、Qwen-VL和InternLM-XComposer等最先进的视觉语言模型采用了不同的实现方式，这使得很难将它们整合到一个统一的训练框架中。
-这段文字很好地概括了Resonance项目要解决的核心问题：统一不同VLM架构的训练框架。
+视觉语言模型（VLM、LVLM或MLLM）的偏好学习研究开发面临挑战，主要原因是VLM社区缺乏统一的模型架构。像LLaVA、Qwen-VL和InternLM-XComposer等最先进的视觉语言模型采用了不同的实现方式，这使得很难将它们整合到一个统一的训练框架中。   
+
+
 Research and development on preference learning of Vision-Language Models (VLM, LVLM or MLLM) is challenging due to the lack of unified model architectures in the VLM community. State-of-the-art VLMs like LLaVA, Qwen-VL, and InternLM-XComposer have different implementation styles, making it difficult to include them in a single training framework.
 
 **Resonance** provides a perfect solution to abstract VLMs in a unified framework where machine vision meets human wisdom through preference learning. Key features include:
