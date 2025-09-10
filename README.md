@@ -16,7 +16,7 @@
     <br>
 </p>
 
-> **Welcome to Resonance!** This project represents the evolution of Resonance, actively maintained by Frank Chen with enhanced features, comprehensive documentation, robust implementations, and demo examples to get you started quickly.
+> **Welcome to Resonance!** 由于本人首先接触的是RTL，所以尽管已经出现了很多支持更高级功能的库，但依然选择使用RTL来完成这个项目.
 
 ## 📝 Introduction
 由于视觉语言模型（VLM、LVLM或MLLM）社区缺乏统一的模型架构，视觉语言模型的偏好学习研究和开发具有挑战性。像LLaVA、Qwen-VL和InternLM-XComposer这样的最先进视觉语言模型具有不同的实现风格，这使得很难将它们包含在单一的训练框架中。
